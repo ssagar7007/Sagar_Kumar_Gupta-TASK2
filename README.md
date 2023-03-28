@@ -5,5 +5,5 @@
 
 #To run the application
    Run the command- 
-        node server.js
+        node index.js
         
