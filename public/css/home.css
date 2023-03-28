@@ -1,0 +1,28 @@
+body{
+    text-align: center; 
+    background-image: url(../image/background.jpeg);
+    
+}
+
+button{
+    border: 3px solid black;
+    border-radius: 10px;
+    background-color: aqua;
+    margin: 3px;
+    margin-top: 20px;
+}
+
+input{
+    margin-top: 10px;
+    border: 2px solid blue;
+    border-radius: 10px;
+    width: 300px;
+    height: 50px  
+}
+h2{
+    color: maroon;
+}
+h3{
+    color: maroon;
+    font-family: cursive;
+}
